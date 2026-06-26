@@ -51,5 +51,4 @@
 ---
 
 ### 👨‍💻 OWNER
-**Cybermaster** | [WhatsApp Me](https://wa.me/message/DXJ2D4NPNFQNO1)  
-Github: [@cybermastert03](https://github.com/cybermastert03)￼Enter
+**Cybermaster** | [WhatsApp Me](https://wa.me/message/DXJ2D4NPNFQNO1)
