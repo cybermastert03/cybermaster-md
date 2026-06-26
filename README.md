@@ -1,18 +1,18 @@
 <div align="center">
   <a href="#">
-    <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&multiline=false&lines=CYBERMASTER-MD+WHATSAPP+BOT+🇿🇼;POWERED+BY+CYBERMASTER+TECH" alt="Typing SVG">
+    <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&multiline=false&lines=CYBERMASTER-MD+ENGLISH+AI+BOT+🇿🇼;POWERED+BY+CYBERMASTER+TECH" alt="">
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/cybermastert03/cybermaster-md">
-    <img alt="CYBERMASTER-MD" height="350" src="https://raw.githubusercontent.com/cybermastert03/cybermaster-md/main/assets/logo.jpg">
+    <img alt="CYBERMASTER-MD" height="450" src="assets/logo.jpg">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cybermastert03">
-    <img title="Owner: +263718990351" src="https://img.shields.io/badge/CYBERMASTER--MD-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=black">
+    <img title="Author" src="https://img.shields.io/badge/CYBERMASTER--MD-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=black">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <strong>1. FORK REPO</strong>
+  <strong>1. FORK REPOSITORY</strong>
   <br>
   <a href="https://github.com/cybermastert03/cybermaster-md/fork" target="_blank">
     <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=00FFFF&color=black"/>
@@ -49,4 +49,7 @@
 </p>
 
 ---
-<p align="center"><b>Owner: Cybermaster | +263718990351 | Harare, ZW</b></p>
+
+### 👨‍💻 OWNER
+**Cybermaster** | [WhatsApp Me](https://wa.me/message/DXJ2D4NPNFQNO1)  
+Github: [@cybermastert03](https://github.com/cybermastert03)￼Enter
